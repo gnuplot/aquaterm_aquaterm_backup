@@ -1,3 +1,8 @@
+2011-03-18 12:16  mmiklavec
+
+	* ChangeLog, AquaTerm.xcodeproj/project.pbxproj: Make AquaTerm the
+	  default target instead of Docs.
+
 2011-03-10 17:18  abgandar
 
 	* AQTImage.m: Add missing 64bit encoding/decoding fixes to the
